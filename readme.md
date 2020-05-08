@@ -47,9 +47,10 @@ Websites and resources with modern UI components in different formats such as PS
 | [InvisionApp](https://www.invisionapp.com/inside-design/design-resources/)                               | Library of free, high-quality UI kits, icon packs, and mockups.    |
 | [Speckyboy Article](https://speckyboy.com/open-source-front-end-ui-kits/)                                | The 10 most popular open source frontend web UI kits               |
 | [Open Doodles](https://www.opendoodles.com/)                                                             | A Free Set of Sketchy Illustrations                                |
-| [Avataaars](https://avataaars.com/)                                                             | Free sketch library of avatars illustrations by Pablo Stanley                                |
+| [Avataaars](https://avataaars.com/)                                                                      | Free sketch library of avatars illustrations by Pablo Stanley      |
+| [UI8](https://ui8.net/)                                                             | UI Design Resources, UI Kits, Wireframes, Icons and More - UI8                               |
 
-<div align="right">
+<div align="right"> 
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -107,8 +108,9 @@ Resources for Icons including font based, png, svg and more
 | [Remix Icon](https://remixicon.com/)| Simply Delightful Icon System |
 | [Iconfinder](https://www.iconfinder.com/)| Free and premium vector icons in SVG, PNG, CSH and AI format. |
 | [Vivid.js](https://webkul.github.io/vivid/)| Ready to use Free and Open Source SVG Icons Pack JavaScript Library. |
-| [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design]|
+| [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design|
 | [iconmonstr](https://iconmonstr.com/) | Discover 4496+ free icons in 313 collections |
+| [map icons](https://mapicons.mapsmarker.com/) | The Map Icons Collection is proudly hosted by Maps Marker Pro |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -175,6 +177,8 @@ Free vectors, clipart, illustrations, patterns and more
 | [Lukaszadam](https://lukaszadam.com/)| Free Vector atrworks |
 | [Illlustrations](https://illlustrations.co/)| Beautiful 100 Illustrations - png, svg |
 | [Clipart](https://www.clipart.email/)| Choose great clipart, png, coloring pages, drawings and more for your projects from the free collection! |
+| [udDraw](https://undraw.co/)| Open-source illustrations for any idea you can imagine and create. |
+| [Ouch!](https://icons8.com/ouch)| Free Vector Illustrations to Class up Your Project |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -217,6 +221,7 @@ Websites that offer free beautiful website templates and themes of all types
 | [Bootswatch](https://bootswatch.com/)| Free themes for Bootstrap|
 | [Onepagelove](https://onepagelove.com/)| One page websites, templates and resources|
 | [Themes For App](https://themesfor.app/)| Free Bootstrap themes and landing pages|
+| [無料のおすすめ最新HTML5テンプレート](http://photoshopvip.net/121984)| 無料のおすすめ最新HTML5テンプレート厳選45個まとめ【2020年版|
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -440,7 +445,7 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Coolors](https://coolors.co/generate)| Color schemes generator |
 | [ColorSpace](https://mycolor.space/)| Generate nice color palettes from one color |
 | [FlatUIColors](https://flatuicolors.com)| Beautiful set of color palettes in various flavours |
-| [Adobe Color](https://color.adobe.com/create)| Create color palettes, extract gradients from images, etc. |
+| [Adobe Color](https://color.adobe.com/ja/create)| Adobe カラーパレットジェネレーター |
 | [Logo Maker](https://logomakr.com/)| Create custom logos |
 | [Whimsical](https://whimsical.com/)| Wireframes, diagrams and more (4 free) |
 | [Whiteboard](https://witeboard.com/)| Online drawing tool |
@@ -522,10 +527,10 @@ Sites that allows you to compress large images
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Adding To This Repo
+## Original of  This Repo
 
-Feel free to make a pull request and add more resources to this repo. The only requirements are that anything you add has to be FREE and put in the correct category. Also, please make sure your resource is not already here or in a PR. New resources are getting added all of the time.
-
+[200+ Design & UI Resources For Developers](https://github.com/bradtraversy/design-resources-for-developers)
+[200+ Design & UI Resources For Developers:Youtube](https://youtu.be/zK-LBukNzAs)
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
