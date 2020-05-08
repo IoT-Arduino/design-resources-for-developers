@@ -1,4 +1,4 @@
-# Design Resources For Developers
+#  開発者の為のデザインリソース
 
 > A curated list of **FREE** design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more.
 
